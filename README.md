@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ![](https://github.com/humaspasta/humaspasta/blob/main/Intro.gif)
 
