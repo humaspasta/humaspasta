@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![](https://github.com/humaspasta/humaspasta/blob/main/Intro.gif)
 
 <!--
 **humaspasta/humaspasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
