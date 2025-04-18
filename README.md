@@ -2,9 +2,11 @@
 ![](https://github.com/humaspasta/humaspasta/blob/main/Intro.gif)
 
 
-<p><image src="https://img.icons8.com/?size=100&id=12584&format=png&color=FFFFFF" fill="white" stroke="white"><image src="https://img.icons8.com/?size=100&id=31825&format=png&color=FFFFFF">
+<p style="text-align: center;"> 
+    <image src="https://img.icons8.com/?size=100&id=12584&format=png&color=FFFFFF" >
+    <image src="https://img.icons8.com/?size=100&id=31825&format=png&color=FFFFFF">
     <image src="https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF">
-        <image src="https://img.icons8.com/?size=100&id=1043&format=png&color=FFFFFF">
+     <image src="https://img.icons8.com/?size=100&id=1043&format=png&color=FFFFFF">
     <image src="https://img.icons8.com/?size=100&id=39853&format=png&color=FFFFFF">
     <image src="https://img.icons8.com/?size=100&id=1045&format=png&color=FFFFFF">
     <image src="https://img.icons8.com/?size=100&id=11643&format=png&color=FFFFFF">
