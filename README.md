@@ -2,7 +2,12 @@
 ![](https://github.com/humaspasta/humaspasta/blob/main/Intro.gif)
 
 
-<p><image src="https://img.icons8.com/?size=100&id=12584&format=png&color=000000" fill="white" stroke="white"></p>
+<p><image src="https://img.icons8.com/?size=100&id=12584&format=png&color=FFFFFF" fill="white" stroke="white"><image src="https://img.icons8.com/?size=100&id=31825&format=png&color=FFFFFF">
+    <image src="https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF">
+        <image src="https://img.icons8.com/?size=100&id=1043&format=png&color=FFFFFF">
+    <image src="https://img.icons8.com/?size=100&id=39853&format=png&color=FFFFFF">
+    <image src="https://img.icons8.com/?size=100&id=1045&format=png&color=FFFFFF"
+</p>
 <p>
 Welcome to my github. I am currently a freshman at the University of Wisconsin - Madison purusing degrees in CS and Mathematics. This place is where I bring my ideas to life. Currently I'm working on:
 
