@@ -20,7 +20,7 @@ Welcome to my github. I am currently a student at the University of Wisconsin - 
 </p>
 
 <p>
-  <img src="https://github.com/humaspasta/humaspasta/blob/main/coding.png" width=20 height=20> An Arduino and Raspberry Pi enabled, touchless, doorbell, for doorms/apartments, that sends wireless data to a webserver for use in other applications. 
+  <img src="https://github.com/humaspasta/humaspasta/blob/main/coding.png" width=20 height=20> An Arduino/ESP8266 powered, touchless, doorbell, for doorms/apartments, that sends wireless data to a webserver for use in other applications. 
 </p>
 
 <!--   
