@@ -14,7 +14,7 @@
 <p>
 Welcome to my github. I am currently a student at the University of Wisconsin - Madison purusing degrees in CS and Mathematics. This place is where I bring my ideas to life. Currently I'm working on:
 
-<img src="https://img.icons8.com/?size=100&id=DpcJAB6rakc6&format=png&color=000000" length=20 width=20> A visualization of the fourier transform that uses AI to fit itself to any inputted pattern. 
+<img src="https://img.icons8.com/?size=100&id=DpcJAB6rakc6&format=png&color=000000" length=20 width=20> A visualization of the Fourier Series that uses Deep Learning to fit itself to any inputted pattern. 
 
 
 </p>
