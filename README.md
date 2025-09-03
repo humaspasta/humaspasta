@@ -4,7 +4,6 @@
 
 <p style="text-align: center;"> 
     <image src="https://img.icons8.com/?size=100&id=12584&format=png&color=FFFFFF" >
-    <image src="https://img.icons8.com/?size=100&id=31825&format=png&color=FFFFFF">
     <image src="https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF">
      <image src="https://img.icons8.com/?size=100&id=1043&format=png&color=FFFFFF">
     <image src="https://img.icons8.com/?size=100&id=39853&format=png&color=FFFFFF">
